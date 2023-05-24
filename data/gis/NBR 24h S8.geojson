@@ -1,0 +1,246 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "creator": "BRouter-1.6.2",
+        "name": "NBR 24h S8",
+        "track-length": "2058",
+        "filtered ascend": "38",
+        "plain-ascend": "34",
+        "total-time": "165",
+        "total-energy": "113064",
+        "cost": "2058",
+        "messages": [
+          [
+            "Longitude",
+            "Latitude",
+            "Elevation",
+            "Distance",
+            "CostPerKm",
+            "ElevCost",
+            "TurnCost",
+            "NodeCost",
+            "InitialCost",
+            "WayTags",
+            "NodeTags",
+            "Time",
+            "Energy"
+          ],
+          [
+            "6983168",
+            "50352674",
+            "554",
+            "38",
+            "1000",
+            "0",
+            "0",
+            "0",
+            "0",
+            "highway=raceway surface=asphalt maxspeed=unknown access=private oneway=yes toll=yes",
+            "",
+            "3",
+            "882"
+          ],
+          [
+            "6982837",
+            "50352546",
+            "553",
+            "28",
+            "1000",
+            "0",
+            "0",
+            "0",
+            "0",
+            "highway=raceway surface=asphalt access=private oneway=yes bridge=yes toll=yes",
+            "",
+            "5",
+            "1390"
+          ],
+          [
+            "6973848",
+            "50349087",
+            "547",
+            "747",
+            "1000",
+            "0",
+            "0",
+            "0",
+            "0",
+            "highway=raceway surface=asphalt access=private oneway=yes toll=yes",
+            "",
+            "65",
+            "26863"
+          ],
+          [
+            "6970825",
+            "50347898",
+            "550",
+            "208",
+            "1000",
+            "0",
+            "0",
+            "0",
+            "0",
+            "highway=raceway surface=asphalt maxspeed=90 access=private oneway=yes toll=yes",
+            "",
+            "81",
+            "38175"
+          ],
+          [
+            "6970825",
+            "50347898",
+            "551",
+            "46",
+            "1000",
+            "0",
+            "0",
+            "0",
+            "0",
+            "highway=raceway surface=asphalt maxspeed=90 access=private oneway=yes toll=yes",
+            "",
+            "3",
+            "1291"
+          ],
+          [
+            "6969392",
+            "50347320",
+            "556",
+            "121",
+            "1000",
+            "0",
+            "0",
+            "0",
+            "0",
+            "highway=raceway surface=asphalt maxspeed=70 access=private oneway=yes toll=yes",
+            "",
+            "13",
+            "9406"
+          ],
+          [
+            "6967984",
+            "50346754",
+            "563",
+            "119",
+            "1000",
+            "0",
+            "0",
+            "0",
+            "0",
+            "highway=raceway surface=asphalt maxspeed=50 access=private oneway=yes toll=yes",
+            "",
+            "22",
+            "20804"
+          ],
+          [
+            "6959085",
+            "50343066",
+            "587",
+            "751",
+            "1000",
+            "0",
+            "0",
+            "0",
+            "0",
+            "highway=raceway surface=asphalt access=private oneway=yes toll=yes",
+            "",
+            "82",
+            "74889"
+          ]
+        ],
+        "times": [
+          0,
+          2.24,
+          3.04,
+          5.28,
+          65.04,
+          81.68,
+          85.36,
+          95.04,
+          104.56,
+          126.8,
+          158.8,
+          160.72,
+          162.4,
+          164.64
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.983624,
+            50.352836,
+            554.75
+          ],
+          [
+            6.983285,
+            50.352719,
+            555
+          ],
+          [
+            6.983168,
+            50.352674,
+            554.75
+          ],
+          [
+            6.982837,
+            50.352546,
+            553.5
+          ],
+          [
+            6.973848,
+            50.349087,
+            547
+          ],
+          [
+            6.971366,
+            50.348111,
+            550.25
+          ],
+          [
+            6.970825,
+            50.347898,
+            551
+          ],
+          [
+            6.969392,
+            50.34732,
+            556
+          ],
+          [
+            6.967984,
+            50.346754,
+            563.5
+          ],
+          [
+            6.964688,
+            50.345427,
+            574.5
+          ],
+          [
+            6.959943,
+            50.343514,
+            588.5
+          ],
+          [
+            6.959676,
+            50.343396,
+            588.5
+          ],
+          [
+            6.959446,
+            50.343283,
+            588.25
+          ],
+          [
+            6.959166,
+            50.343115,
+            587.75
+          ]
+        ]
+      }
+    }
+  ]
+}
