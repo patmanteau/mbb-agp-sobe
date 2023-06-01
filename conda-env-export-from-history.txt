@@ -1,0 +1,13 @@
+name: mbb-agp-sobe
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - python=3.11
+  - jupyterlab
+  - seaborn
+  - black
+  - flake8
+  - folium
+  - scikit-learn
+prefix: C:\Users\p\miniconda3\envs\mbb-agp-sobe
